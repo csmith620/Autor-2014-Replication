@@ -1,5 +1,4 @@
 * Empirical Project 2
-* Calvin Eppinger, Rubaa Khan, Jordan Oquendo, Chelsea Smith
 
 * Question 2
 use cps_1970
